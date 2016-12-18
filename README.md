@@ -9,5 +9,6 @@ Change your torrent config to allow the following: (TransmissionQT config)
     "rpc-port": 9091,
     "rpc-username": "",
     "script-torrent-done-enabled": true,
-    "script-torrent-done-filename": "INSERTYOURPATHHERE\\TorrentCleanup.exe", 
+    "script-torrent-done-filename": "INSERTYOURPATHHERE\\TorrentCleanup.exe",
+}
 ```
