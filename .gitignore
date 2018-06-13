@@ -11,6 +11,7 @@ bin/
 build/
 dropboxrelease/
 tmp/
+*.vs
 *.tmp
 *.bak
 *.swp
